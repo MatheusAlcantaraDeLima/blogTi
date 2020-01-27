@@ -1,6 +1,7 @@
 html, body{
     height: 100%;
 }
+/*HEADER*/
 header{
     text-align: center;
 }
@@ -30,6 +31,7 @@ header ul li a:hover{
     text-decoration: none;
     color: black;
 }
+/*BODY*/
 section{
     position: relative;
     box-sizing: border-box;
@@ -45,6 +47,7 @@ h2{
     background-color: black;
     border-radius: 10px;
 }
+/*FOOTER*/
 footer{
     
 }
