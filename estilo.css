@@ -21,7 +21,24 @@ header ul li a{
     font-size: 14pt;
     transition: 1s;
 }
+@media (max-width: 338px){
+    header ul li{
+        display: block;
+    }
+}
 header ul li a:hover{
     text-decoration: none;
     color: black;
+}
+section{
+    position: relative;
+    box-sizing: border-box;
+    width: 100%;
+}
+article{
+    box-sizing: border-box;
+    width: 100%;
+}
+footer{
+    
 }
