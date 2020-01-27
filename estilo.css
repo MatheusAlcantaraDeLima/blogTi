@@ -49,5 +49,22 @@ h2{
 }
 /*FOOTER*/
 footer{
-    
+    padding: 20px;
+    background-color: black;
+    color: white;
+}
+footer p{
+    text-align: center;
+}
+footer nav{
+    text-align: center;
+}
+footer nav a{
+    font-size: 14pt;
+    transition: 1s;
+    color: white;
+}
+footer nav a:hover{
+    text-decoration: none;
+    color:#007bff;
 }
